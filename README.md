@@ -1,2 +1,1 @@
-# IndieProjects
-Practice Projects
+
